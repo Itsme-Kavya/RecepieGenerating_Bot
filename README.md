@@ -1,4 +1,4 @@
-
+****
 "Chat, Cook, Connect: Unleash the Power of AI in Your Kitchen with COOKBOOK."
 
 Cookbook Chatbot is an innovative culinary companion designed to revolutionize the way users interact with recipes and explore the world of cooking. This is an AI-driven chatbot integrated into our cookbook website.
@@ -26,3 +26,4 @@ The project has achieved significant milestones:
 •	User Interface Development: Streamlit has enabled the creation of an intuitive and user-friendly interface, allowing for seamless navigation and interaction. Feedback from early users has been positive, highlighting the platform's ease of use and functionality.
 ![image](https://github.com/Itsme-Kavya/RecepieGenerating_Bot/assets/161661536/c9b31e2a-7ef6-420d-92ed-e60b650460b6)
 
+********
